@@ -1,0 +1,22 @@
+Coding
+
+#Compression algorithm
+- Burrows – Wheeler Data Transform Algorithm
+- Huffman encoding
+- Run-length encoding (RLE)
+- LZW compression
+
+#Data Structures
+- Hashing
+
+Mathematics
+-Conway sequence
+
+
+
+
+
+
+
+links:
+https://www.dcode.fr/tools-list#mathematics
